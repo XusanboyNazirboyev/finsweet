@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import  { useState } from "react";
 import { Quote } from "lucide-react";
 
 interface Testimonial {
