@@ -71,7 +71,6 @@ const ProcessCard: React.FC<ProcessStep> = ({
   number,
   icon,
   title,
-  description,
   showLine,
 }) => {
   // Ba'zi kartalarda pastki/yuqori chiziq rangli, ba'zilarida yo'q.
