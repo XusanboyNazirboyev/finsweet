@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@theme {
+  --color-navy: #14192b;
+  --color-navy-foreground: #ffffff;
+  --color-primary: #4f46e5;
+  --color-primary-foreground: #ffffff;
+  --color-peach: #fdece0;
+  --color-mint: #e3f2f1;
+  --color-orange: #f2994a;
+  --color-muted-foreground: #6b7280;
+  --color-border: #e5e7eb;
+}
+
+@utility container {
+  margin-inline: auto;
+  padding-inline: 1.25rem;
+  max-width: 80rem;
+}
